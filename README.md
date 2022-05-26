@@ -1,5 +1,6 @@
 # About The Project
  
+* You can click this link for the live version of my project: https://codepen.io/beyzadev/pen/poapbpw 
 * We have a background image in our project.
 * If our password is less than 10 characters, our background image will be blurred.
 * If our password has 10 characters, our image will appear in its clearest form.
